@@ -1,0 +1,724 @@
+{
+    "chatHistory": [
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "Has anyone used the Flutter Slider widget? I find it quite useful.",
+            "timestamp": "2023-10-01T10:01:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "Yes, the Slider is great! I love how customizable it is.",
+            "timestamp": "2023-10-01T10:02:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "Hey everyone! Have you tried using the Flutter DropdownButton?",
+            "timestamp": "2023-10-01T10:00:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "I just started using it. It's pretty straightforward!",
+            "timestamp": "2023-10-01T10:03:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "What about the Flutter TextField? Any tips?",
+            "timestamp": "2023-10-01T10:04:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "I usually wrap it with Padding for better UX.",
+            "timestamp": "2023-10-01T10:05:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "I love using the Flutter GridView for layouts.",
+            "timestamp": "2023-10-01T10:06:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "GridView is awesome for responsive designs!",
+            "timestamp": "2023-10-01T10:07:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "How do you handle state in Flutter?",
+            "timestamp": "2023-10-01T10:08:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "I prefer using Provider for state management.",
+            "timestamp": "2023-10-01T10:09:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "Have you tried Riverpod? It's quite powerful.",
+            "timestamp": "2023-10-01T10:10:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "I heard Riverpod is better for testing.",
+            "timestamp": "2023-10-01T10:11:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "What about Flutter animations? Any favorite packages?",
+            "timestamp": "2023-10-01T10:12:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "I love using the Flutter Animation package for transitions.",
+            "timestamp": "2023-10-01T10:13:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "The Hero widget is amazing for shared element transitions.",
+            "timestamp": "2023-10-01T10:14:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "Agreed! It makes navigation feel smooth.",
+            "timestamp": "2023-10-01T10:15:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "Do you guys use Flutter's built-in themes?",
+            "timestamp": "2023-10-01T10:16:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "Yes, theming is essential for a consistent look.",
+            "timestamp": "2023-10-01T10:17:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "I always create a custom theme for my apps.",
+            "timestamp": "2023-10-01T10:18:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "Me too! It really helps with branding.",
+            "timestamp": "2023-10-01T10:19:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "What do you think about Flutter's ListView?",
+            "timestamp": "2023-10-01T10:20:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "ListView is super flexible for displaying lists.",
+            "timestamp": "2023-10-01T10:21:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "I use ListView.builder for large datasets.",
+            "timestamp": "2023-10-01T10:22:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "Same! It's more efficient for memory usage.",
+            "timestamp": "2023-10-01T10:23:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "How do you handle API calls in Flutter?",
+            "timestamp": "2023-10-01T10:24:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "I usually use the http package for REST APIs.",
+            "timestamp": "2023-10-01T10:25:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "Dio is also a great package for more advanced needs.",
+            "timestamp": "2023-10-01T10:26:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "I've used Dio, and it's very versatile!",
+            "timestamp": "2023-10-01T10:27:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "Do you use any database solutions with Flutter?",
+            "timestamp": "2023-10-01T10:28:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "SQLite is a solid choice for local storage.",
+            "timestamp": "2023-10-01T10:29:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "I've been using Hive for NoSQL storage.",
+            "timestamp": "2023-10-01T10:30:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "Hive is really fast and easy to implement!",
+            "timestamp": "2023-10-01T10:31:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "What are your thoughts on Flutter widgets?",
+            "timestamp": "2023-10-01T10:32:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "Widgets are the core of Flutter's UI framework.",
+            "timestamp": "2023-10-01T10:33:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "I love how everything is a widget in Flutter!",
+            "timestamp": "2023-10-01T10:34:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "It's a unique approach that simplifies UI building.",
+            "timestamp": "2023-10-01T10:35:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "What about the Flutter BottomNavigationBar?",
+            "timestamp": "2023-10-01T10:36:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "It's great for navigation between different views.",
+            "timestamp": "2023-10-01T10:37:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "I like combining it with a PageView for smooth transitions.",
+            "timestamp": "2023-10-01T10:38:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "That's a good idea! Makes it very user-friendly.",
+            "timestamp": "2023-10-01T10:39:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "How do you manage routes in Flutter?",
+            "timestamp": "2023-10-01T10:40:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "I use named routes for better organization.",
+            "timestamp": "2023-10-01T10:41:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "Navigator 2.0 is also a great option for complex apps.",
+            "timestamp": "2023-10-01T10:42:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "I agree! It provides more control over navigation.",
+            "timestamp": "2023-10-01T10:43:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "What do you think about Flutter's testing framework?",
+            "timestamp": "2023-10-01T10:44:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "I find it quite comprehensive for unit and widget tests.",
+            "timestamp": "2023-10-01T10:45:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "Integration testing is also pretty straightforward.",
+            "timestamp": "2023-10-01T10:46:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "Testing is crucial for maintaining quality in apps.",
+            "timestamp": "2023-10-01T10:47:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "How do you handle exceptions in Flutter?",
+            "timestamp": "2023-10-01T10:48:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "I usually use try-catch blocks for error handling.",
+            "timestamp": "2023-10-01T10:49:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "Global error handling can be done using ErrorWidget.",
+            "timestamp": "2023-10-01T10:50:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "That's a good approach for catching unexpected errors.",
+            "timestamp": "2023-10-01T10:51:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "What do you think about Flutter's pubspec.yaml?",
+            "timestamp": "2023-10-01T10:52:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "It's essential for managing dependencies.",
+            "timestamp": "2023-10-01T10:53:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "I always keep it organized to avoid version conflicts.",
+            "timestamp": "2023-10-01T10:54:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "Good practice! It helps in maintaining the project.",
+            "timestamp": "2023-10-01T10:55:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "How do you handle user authentication in Flutter?",
+            "timestamp": "2023-10-01T10:56:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "I usually use Firebase Authentication for simplicity.",
+            "timestamp": "2023-10-01T10:57:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "OAuth is great for integrating third-party sign-ins.",
+            "timestamp": "2023-10-01T10:58:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "I agree! Security is important in mobile apps.",
+            "timestamp": "2023-10-01T10:59:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "What are your thoughts on Flutter's localization support?",
+            "timestamp": "2023-10-01T11:00:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "I think it's essential for reaching a global audience.",
+            "timestamp": "2023-10-01T11:01:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "Using the intl package makes it easier to manage.",
+            "timestamp": "2023-10-01T11:02:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "Localization is definitely a must-have in apps!",
+            "timestamp": "2023-10-01T11:03:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "How do you optimize performance in Flutter?",
+            "timestamp": "2023-10-01T11:04:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "I use the Flutter DevTools to analyze performance.",
+            "timestamp": "2023-10-01T11:05:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "You can also minimize rebuilds by using const widgets.",
+            "timestamp": "2023-10-01T11:06:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "That's a good point! Performance is key.",
+            "timestamp": "2023-10-01T11:07:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "What do you think about Flutter's support for desktop apps?",
+            "timestamp": "2023-10-01T11:08:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "It's exciting! I can't wait to see more desktop apps.",
+            "timestamp": "2023-10-01T11:09:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "Flutter's cross-platform capabilities make it very appealing.",
+            "timestamp": "2023-10-01T11:10:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "I agree! It's great for building apps for multiple platforms.",
+            "timestamp": "2023-10-01T11:11:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "What about Flutter's package ecosystem?",
+            "timestamp": "2023-10-01T11:12:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "There are so many packages available; it's fantastic!",
+            "timestamp": "2023-10-01T11:13:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "I often find packages that save me a lot of time.",
+            "timestamp": "2023-10-01T11:14:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "Yes! The community is very active and helpful.",
+            "timestamp": "2023-10-01T11:15:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "How do you handle UI testing in Flutter?",
+            "timestamp": "2023-10-01T11:16:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "I use the flutter_test package for that.",
+            "timestamp": "2023-10-01T11:17:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "Widget testing is pretty easy to set up!",
+            "timestamp": "2023-10-01T11:18:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "Testing is crucial for ensuring app quality.",
+            "timestamp": "2023-10-01T11:19:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "Do you have any tips for using Flutter packages?",
+            "timestamp": "2023-10-01T11:20:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "Always check the package's documentation and issues.",
+            "timestamp": "2023-10-01T11:21:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "I verify the package's popularity and maintenance.",
+            "timestamp": "2023-10-01T11:22:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "Good practices! It helps in avoiding dead packages.",
+            "timestamp": "2023-10-01T11:23:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "What do you think about Flutter's hot reload feature?",
+            "timestamp": "2023-10-01T11:24:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "Hot reload is a game changer for development speed!",
+            "timestamp": "2023-10-01T11:25:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "I can't imagine going back to regular reload.",
+            "timestamp": "2023-10-01T11:26:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "It really enhances the development experience!",
+            "timestamp": "2023-10-01T11:27:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "How do you manage dependencies in Flutter?",
+            "timestamp": "2023-10-01T11:28:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "I keep an eye on the pub.dev for updates.",
+            "timestamp": "2023-10-01T11:29:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "Using dependency_overrides can be helpful too.",
+            "timestamp": "2023-10-01T11:30:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "Managing dependencies well can prevent many issues.",
+            "timestamp": "2023-10-01T11:31:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "What are your thoughts on Flutter's support for web apps?",
+            "timestamp": "2023-10-01T11:32:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "I'm excited about the possibilities for web apps!",
+            "timestamp": "2023-10-01T11:33:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "It's a great way to leverage existing Flutter skills.",
+            "timestamp": "2023-10-01T11:34:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "Yes! Cross-platform development is the future.",
+            "timestamp": "2023-10-01T11:35:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "How do you handle user input validation?",
+            "timestamp": "2023-10-01T11:36:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "I usually validate inputs in the onChanged callback.",
+            "timestamp": "2023-10-01T11:37:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "Form validation is essential for good UX.",
+            "timestamp": "2023-10-01T11:38:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "I agree! It helps to catch errors early.",
+            "timestamp": "2023-10-01T11:39:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "What do you think about Flutter's support for accessibility?",
+            "timestamp": "2023-10-01T11:40:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "Accessibility is crucial for inclusivity.",
+            "timestamp": "2023-10-01T11:41:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "I always test my apps for accessibility features.",
+            "timestamp": "2023-10-01T11:42:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "Good practice! Everyone should have access to apps.",
+            "timestamp": "2023-10-01T11:43:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "How do you handle custom fonts in Flutter?",
+            "timestamp": "2023-10-01T11:44:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "I include them in the pubspec.yaml file.",
+            "timestamp": "2023-10-01T11:45:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "Using custom fonts can enhance the app's design.",
+            "timestamp": "2023-10-01T11:46:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "Absolutely! It gives apps a unique identity.",
+            "timestamp": "2023-10-01T11:47:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "What do you think about Flutter's support for animations?",
+            "timestamp": "2023-10-01T11:48:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "Animations can greatly improve user engagement.",
+            "timestamp": "2023-10-01T11:49:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "I love using animations to guide user interactions.",
+            "timestamp": "2023-10-01T11:50:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "Animations make apps feel more alive!",
+            "timestamp": "2023-10-01T11:51:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "How do you handle background tasks in Flutter?",
+            "timestamp": "2023-10-01T11:52:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "I use the workmanager package for scheduling tasks.",
+            "timestamp": "2023-10-01T11:53:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "Background tasks are essential for a smooth user experience.",
+            "timestamp": "2023-10-01T11:54:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "I agree! They keep the app responsive.",
+            "timestamp": "2023-10-01T11:55:00Z"
+        },
+        {
+            "sender": "Alice",
+            "avatar": "images/People_Circle2.png",
+            "message": "What do you think about Flutter's support for internationalization?",
+            "timestamp": "2023-10-01T11:56:00Z"
+        },
+        {
+            "sender": "Bob",
+            "avatar": "images/People_Circle23.png",
+            "message": "Internationalization is vital for reaching a wider audience.",
+            "timestamp": "2023-10-01T11:57:00Z"
+        },
+        {
+            "sender": "Charlie",
+            "avatar": "images/People_Circle5.png",
+            "message": "I always make sure my apps are ready for multiple languages.",
+            "timestamp": "2023-10-01T11:58:00Z"
+        },
+        {
+            "sender": "Diana",
+            "avatar": "images/People_Circle6.png",
+            "message": "Localization is crucial for user satisfaction.",
+            "timestamp": "2023-10-01T11:59:00Z"
+        }
+    ]
+}
