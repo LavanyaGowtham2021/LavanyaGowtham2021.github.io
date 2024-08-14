@@ -3415,15 +3415,15 @@
     "webCategoryId": 7,
     "controlList": [
       {
-        "title": "Chat View",
-        "description": "Chat view to display the conversation between people.",
+        "title": "Chat",
+        "description": "Displays a conversation between two or more users in a fully customizable layout.",
         "image": "images/chat_icon.png",
         "status": "New",
         "displayType": "tab",
         "controlId": 1,
         "subItems": [
           {
-            "status":"New",
+            "status": "New",
             "type": "sample",
             "title": "Getting Started",
             "key": "getting_started",
@@ -3431,9 +3431,9 @@
             "needsPropertyPanel": false
           },
           {
-            "status":"New",
+            "status": "New",
             "type": "sample",
-            "title": "Customized chat view",
+            "title": "Customization",
             "key": "chat_view",
             "codeLink": " ",
             "needsPropertyPanel": false
